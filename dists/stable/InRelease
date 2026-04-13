@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Winn
+Label: Winn
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Winn programming language packages
+Date: Mon, 13 Apr 2026 02:08:26 +0000
+MD5Sum:
+ d5dda71d7c71a94bf060f53b0dee1462              180 Release
+ 19acec6ebe7bbeb6142a4e6f9e4d8ec5              484 main/binary-amd64/Packages
+ 3be30e026ee09aac78e7bb3a140b660c              385 main/binary-amd64/Packages.gz
+SHA1:
+ 807c6e05256eb9cea255e2607802a1b5e5f67a47              180 Release
+ e7ea513338146ef4453c74b5b0be01890fd90f63              484 main/binary-amd64/Packages
+ aae9a8af0492fad4140912688cd78eede8085300              385 main/binary-amd64/Packages.gz
+SHA256:
+ ef15e637bb74d78992d01c2df41d1f7fcbaca1a8f69174db5ac6b1cb5a047a7b              180 Release
+ 85e7f9f17cb183d1e0ca6bdb3884f3f9103bf86ef3077234b5b42aeae86932a5              484 main/binary-amd64/Packages
+ 7adc4a5486345ea31f0969e42edd30bc927a1283d0bb00daa25e8b8a29168080              385 main/binary-amd64/Packages.gz
+SHA512:
+ 6a8ffeddbe683a696df96602cda99a3a22586c3d14134d08f6bce436d42adc81d4ba10c23702869f3259807e52ce75247d51803699e0fbb8953d3cebe6ea5133              180 Release
+ 2fade10c08fd52bfdb6c5b23a277fcfba100741a8def99235f03f6a99f0d1be30b48a941927a5fa44b0ab2d0b5152511c5f38149aff7ccd22d566614071c8110              484 main/binary-amd64/Packages
+ a35c5162722ebb5d12c468991a63e35a581575762a2a9bd85057562d0758ba279777c23d1a72147456f9fb5fdd3e2951f67e50722393c7a17ac65bb84cdb31ca              385 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEJqvz/KcK+cOgeowglM7FI1kRCN0FAmncUBoACgkQlM7FI1kR
+CN2/8g//VtnfKylqr3MdBd8EADFFfP9BvZh72EmoVqpX7KapQYmshVlkwqFRYmVV
+1no385ZOjNV9Elx+pey5Fyjl/9/WZaoWnp9S/r01T3wnDrPJlK2Adg2d3NaZA5K2
+4ZkJejWdN/doNuDhTvOjU7kfcpiAoToT5xwPDJtlYxwfM61aG5FPS8NfdiKj61Xd
+Qrs5SxTajk0dqKbl0n56wKke+WS4nm9a9ojj6ShI8FfmwBYoDRqjXEcG1ePpcFy7
+dlXc1UHBv1kZO4oxy5cDeitlGK7U+cYUhdiDDKx7Pe688JaBRzbTO5RN9YKvvE+K
+vSwfdlV44kb+0OOWBSNSzW7hJP7lSQCbgx83EFkHTJmomp6KwXjbD+6zIy3fwRhq
+ML4GTAxCZqtJ99YtcUkgq7ePDIfGJaCRd0XYCchAEnjY1npA67s6WjOfTxBJnMZG
+SVxLwaqTqbd2GQKbvqpbv8v31Dy4ogsY6tFQ6TsurTzvu6aWRlGjTx/iQywp06P5
+FkpTcglYal2z9RUapouBCalAohFKgUkz4qkpTh/JrWcPzNz6TX85JoGBY6ldqxEZ
+i5TVuPu2DOMOxz8/C/WWS0mkYvSEp+RYkfJGrW1u0lyfxQBhJzcQ+iJpUFsAi7ca
+7RdpXEWdhkEmPwivxIe5vxR5Wi/hZsL+vXZdvrRFyLD/RlX1E2w=
+=S/UY
+-----END PGP SIGNATURE-----
