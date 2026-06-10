@@ -5,20 +5,20 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Winn programming language packages
-Date: Mon, 13 Apr 2026 02:08:26 +0000
+Date: Wed, 10 Jun 2026 04:21:54 +0000
 MD5Sum:
- d5dda71d7c71a94bf060f53b0dee1462              180 Release
- 19acec6ebe7bbeb6142a4e6f9e4d8ec5              484 main/binary-amd64/Packages
- 3be30e026ee09aac78e7bb3a140b660c              385 main/binary-amd64/Packages.gz
+ 37149efd8e7761a96a899006443f5af0              180 Release
+ a5daff07cfcb37f46ea6a2586c99c28e              484 main/binary-amd64/Packages
+ 4547ea50eeb2c49d98b915c883a2fc98              380 main/binary-amd64/Packages.gz
 SHA1:
- 807c6e05256eb9cea255e2607802a1b5e5f67a47              180 Release
- e7ea513338146ef4453c74b5b0be01890fd90f63              484 main/binary-amd64/Packages
- aae9a8af0492fad4140912688cd78eede8085300              385 main/binary-amd64/Packages.gz
+ d40edaeb6bb72c04a6473727c07b983a33513b7c              180 Release
+ fa8115eb4b6095b4d5b783b6a98338dbdfaac555              484 main/binary-amd64/Packages
+ 9ab31aec1edc295ce7f22b8c6d3dfc720a20bc7d              380 main/binary-amd64/Packages.gz
 SHA256:
- ef15e637bb74d78992d01c2df41d1f7fcbaca1a8f69174db5ac6b1cb5a047a7b              180 Release
- 85e7f9f17cb183d1e0ca6bdb3884f3f9103bf86ef3077234b5b42aeae86932a5              484 main/binary-amd64/Packages
- 7adc4a5486345ea31f0969e42edd30bc927a1283d0bb00daa25e8b8a29168080              385 main/binary-amd64/Packages.gz
+ def71db09bad0097b0be0d075b4ebad63c423d4d5b1d0f3aa68710fb3da0da6f              180 Release
+ b8edb8120541ac6c07716b72585b384c7068a2aba8bea9b994b1bf436ccfaa36              484 main/binary-amd64/Packages
+ 88bf49a96453851db8c70c7bb5a06d290626795af214c094e5e7ac6a9ad55019              380 main/binary-amd64/Packages.gz
 SHA512:
- 6a8ffeddbe683a696df96602cda99a3a22586c3d14134d08f6bce436d42adc81d4ba10c23702869f3259807e52ce75247d51803699e0fbb8953d3cebe6ea5133              180 Release
- 2fade10c08fd52bfdb6c5b23a277fcfba100741a8def99235f03f6a99f0d1be30b48a941927a5fa44b0ab2d0b5152511c5f38149aff7ccd22d566614071c8110              484 main/binary-amd64/Packages
- a35c5162722ebb5d12c468991a63e35a581575762a2a9bd85057562d0758ba279777c23d1a72147456f9fb5fdd3e2951f67e50722393c7a17ac65bb84cdb31ca              385 main/binary-amd64/Packages.gz
+ 91cbc6ae5f9f5516a7a932a93a982e3e35a638671baab2cf7f7e93d7b8eaa352b1bde058e157ada1066d243ad360b5db58007258fb574d1d996b0d0aeab83b69              180 Release
+ 011cd7a76c1c4e597b3317b79dba70a5b2b9a5507000e01c4a3489023c0dd9d5b7a068373f826582ef84ea45a919d64c4c0c6ac0791ac51306098ffee0b0bc6d              484 main/binary-amd64/Packages
+ 4d8c61b1c7a0ed09c836f4e4b2f76b7b3034ee191fee7d0c3c92cea4dd4fc5067061a91202a9b74ef99c212f9f96ad275d0dd28fc3e587a06c3380e3aafe9ab5              380 main/binary-amd64/Packages.gz

@@ -1,14 +1,14 @@
 Package: winn
-Version: 0.9.2
+Version: 0.9.3
 Architecture: amd64
 Maintainer: Greg Winn <greg@winn.ws>
 Installed-Size: 2031
 Depends: erlang
-Filename: pool/main/winn_0.9.2_amd64.deb
-Size: 2030986
-MD5sum: b9ee4e415ae495b294c0b5e41690932a
-SHA1: 30f7e92e526fa69b7ba0c6c2f6876219f6b1fab3
-SHA256: 648665b70919305d3fb12e31890faf144826f36a68ed411a08b0268989f05fd2
+Filename: pool/main/winn_0.9.3_amd64.deb
+Size: 2031220
+MD5sum: e6365d6979bd44099fe24e1e1a49b883
+SHA1: 8dc1069ec911d030f6bc86b6966f85043b2193f9
+SHA256: 2069f2babc2cbea9f476737c774cca02bd0d7bda5ffe030cd54932e998a5bbf4
 Section: devel
 Priority: optional
 Homepage: https://winn.ws
