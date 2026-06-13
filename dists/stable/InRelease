@@ -8,36 +8,36 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Winn programming language packages
-Date: Wed, 10 Jun 2026 04:21:54 +0000
+Date: Sat, 13 Jun 2026 19:39:46 +0000
 MD5Sum:
- 37149efd8e7761a96a899006443f5af0              180 Release
- a5daff07cfcb37f46ea6a2586c99c28e              484 main/binary-amd64/Packages
- 4547ea50eeb2c49d98b915c883a2fc98              380 main/binary-amd64/Packages.gz
+ ac590c207633966e2a249affb91ebae2              180 Release
+ 9faa715c105d431497681a2d728a3df4              484 main/binary-amd64/Packages
+ 4b91afd63eaf14292f61196b6fbdfddc              380 main/binary-amd64/Packages.gz
 SHA1:
- d40edaeb6bb72c04a6473727c07b983a33513b7c              180 Release
- fa8115eb4b6095b4d5b783b6a98338dbdfaac555              484 main/binary-amd64/Packages
- 9ab31aec1edc295ce7f22b8c6d3dfc720a20bc7d              380 main/binary-amd64/Packages.gz
+ 75315a7218fd9b8fff840cdcd094eaaa6a64a563              180 Release
+ f345f0c25384d99a4d6e09c9810e95c1657445b6              484 main/binary-amd64/Packages
+ efa1410b06e609aca1cd47c2143a3fc7a6c0cd52              380 main/binary-amd64/Packages.gz
 SHA256:
- def71db09bad0097b0be0d075b4ebad63c423d4d5b1d0f3aa68710fb3da0da6f              180 Release
- b8edb8120541ac6c07716b72585b384c7068a2aba8bea9b994b1bf436ccfaa36              484 main/binary-amd64/Packages
- 88bf49a96453851db8c70c7bb5a06d290626795af214c094e5e7ac6a9ad55019              380 main/binary-amd64/Packages.gz
+ 1045fe5ab508b694913fb38fc8bd483a63cf92c4f765f14875236e6676372385              180 Release
+ e17c3b854f962ce7c85513fc97cf11e88ef3613503ed3746a031e6b93766f3fe              484 main/binary-amd64/Packages
+ 47b02362d7063241d5d326dc05c075bb144532689eab3922361c1c89b8dd3cc7              380 main/binary-amd64/Packages.gz
 SHA512:
- 91cbc6ae5f9f5516a7a932a93a982e3e35a638671baab2cf7f7e93d7b8eaa352b1bde058e157ada1066d243ad360b5db58007258fb574d1d996b0d0aeab83b69              180 Release
- 011cd7a76c1c4e597b3317b79dba70a5b2b9a5507000e01c4a3489023c0dd9d5b7a068373f826582ef84ea45a919d64c4c0c6ac0791ac51306098ffee0b0bc6d              484 main/binary-amd64/Packages
- 4d8c61b1c7a0ed09c836f4e4b2f76b7b3034ee191fee7d0c3c92cea4dd4fc5067061a91202a9b74ef99c212f9f96ad275d0dd28fc3e587a06c3380e3aafe9ab5              380 main/binary-amd64/Packages.gz
+ 8d6571127b8b15c4ba0cb2cef164c0050102e300f174f26c87ce7c0a8ef02d9ae0dd98fd9340d5bc3eb23fc2a397ae94930546e9eb9c680848bf4036c23308e4              180 Release
+ 67bfc3b76a286055a34f8a72ccd3ff58c56232a2f01b30e94f140fca17ba887168e7142f23dc655c6caebeb57daf459dcd25ceef6c111184462a010a8f814ea4              484 main/binary-amd64/Packages
+ 6bc96fb666c14c197c5208b194d4111866ead6ba3b46e5137567f779acd80418f2b9d87e72ff1baf0ed6f38ce9fde5253301face339a4c628fc2424dc7042cf8              380 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEJqvz/KcK+cOgeowglM7FI1kRCN0FAmoo5mIACgkQlM7FI1kR
-CN1CChAAk6j9YAAcIbjExgckp+Na1HEHY2bRD1UKbgAH8S+Y9tzGIzaKxGkKwlci
-bA0x65Qr6cCDQsC5LhcHT0ZTAbdT7Qys54Ppo+5lH8iI9fn+1t3pOiVd8Bw0L/YC
-pruNS3evvXLTJZpJnI2JCf3tL5CS4YrjANt3AQjflgsKwAfTA6UE9MyRYf/CMsXF
-3GfyMxaOom8EOxffaXpchXJck8lwYtkQIijHleSFEZ3HLRelFIQ/WLj5g1rdghty
-oMG3PV1t/4CGAl0yUoDlmWml/kvclHOknlkU3dM8CCLfCnKK8u/NdCcB3xh0hGb/
-7OdS+2LJ7NhKIC8xKSE4cYsZz/8W4bKfrA+uk8OvLJ3l36nzXYNmYYEHPvafVHz9
-bFDDgFTycbQU0VTvuq6q4dhrxia5IIaza1+v0wQcS51S5KRtVLCQq/ikTmstMO7V
-GD+EzoVHAzbq/kUI86LwnWJm3MTNDyICc5Ok56PmHRjFclaWDbwyIkcT4YafkHYI
-6DDlchl/+DKeSAJXSJmA6O7I5rJO7PkQGD6Sg0BqQOnqHwMbHI4iSHr1ZCq9L9aS
-bk58DTgjCWsoZRi+b4QGlt/9ePjBy6oIuVcD81utsqGcJ0VNyKubF+EwGdODx5os
-iv7IUmM4lAHgwN/zRaXTzPip45tDFnCGxyjQnea4fjH0e9iU4IA=
-=4wnO
+iQIzBAEBCgAdFiEEJqvz/KcK+cOgeowglM7FI1kRCN0FAmotsgIACgkQlM7FI1kR
+CN1zUg//ahT+4bPh1qFkE6p3K1Xj1mz0SvrEPDLw24f8ZPflKEfWGJx5EXTn9uEw
+eyczA8/x6Q4vyYsqqC0ziEl/Rsj6tdUAeaLdu5SvdS9m3+6nWIvD2ZTsOe8GgySu
+SefTLUG07LRGKLXGZwaFq1zTuE1qKnqzuyPy6pOjPQh2odwUfFgOQcZrO084ScyH
+Jf3UfUFwvw0XkJP1fShp4pibzxd4OWuQa3SfnbdOS8o5vNqmKL15xdhB5467ETd4
+ocZW3NkUQpSYnmkmNe843Del9STHkApPX70YUlQBSebVOAtGtC2c1QahnPaKS7cq
++W2BGhzEvGRr10F//rDUYmWVRQ7wo2S7EDGEtGBi90ArSuxlphCbIH9YgKpPD4Sq
+LZQMLxW9NSE4xKzwGegQpayyl4NSSy8bKXYtcdLdB7uM1aGciEWhn+dZho0nhc9R
+rBBzOvAdVs3LkcTbcg47zSWBDIu2LQjA9EwQ2PHKbAvT5ZqmNQ0NcLjxxOlJIdEj
+HEOcpk1rhFC3S9FLwAJnILItMO0O9lCsRlsZ86rKmmT7w952gmMvZ8M/bUohrtX0
+kh73pBBC5IrsTMDtdy+gwEoVjPjc0PYKjCKQr1kTUNccYCnj0ilqQb1qIcEiWPQF
+wf27hC6AKNav7lnM4W1NINi8mhDnt/UzGCV9UTYWttdKeFFT1EY=
+=A8Ix
 -----END PGP SIGNATURE-----
